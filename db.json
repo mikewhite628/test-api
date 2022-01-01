@@ -1,0 +1,40 @@
+{
+    "strawhats": [
+        {
+            "id": 0,
+            "name": "Monkey D. Luffy",
+            "bounty":"1,500,000,000",
+            "description": "Captian of Strawhat pirates",
+            "likes": [
+                {
+                    "food": "meat",
+                    "people": "Zoro"
+                }
+            ]
+        },
+           {
+            "id": 1,
+            "name": "Roronoa Zoro",
+            "bounty":"320,000,000",
+            "description": "Commander of Strawhat pirates",
+            "likes": [
+                {
+                    "food": "Alcohol",
+                    "people": "Luffy"
+                }
+            ]
+        },
+         {
+            "id": 2,
+            "name": "Vinsmoke Sanji",
+            "bounty":"330,000,000",
+            "description": "Cook of Strawhat pirates",
+            "likes": [
+                {
+                    "food": "A well cooked meal",
+                    "people": "Women"
+                }
+            ]
+        }
+    ]
+}
